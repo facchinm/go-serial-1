@@ -1,7 +1,7 @@
 package main
 
 import (
-	".."
+	"github.com/facchinm/go-serial-native"
 	"fmt"
 )
 
