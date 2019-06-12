@@ -20,6 +20,7 @@
 
 #ifdef __linux__
 #define _BSD_SOURCE // for timeradd, timersub, timercmp
+#define _DEFAULT_SOURCE
 #endif
 
 #include <string.h>
